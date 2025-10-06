@@ -9,7 +9,7 @@ This project focuses on cleaning and preparing a dataset in Excel to ensure accu
 ## Files
 - `raw_data.csv` - Original, unprocessed dataset  
 - `cleaned_data.csv` - Dataset after cleaning and corrections  
-- `data_cleaning_screenshot.png` - Screenshot showing applied cleaning steps  
+- `data_cleaning_capture.png` - Screenshot showing applied cleaning steps  
 
 ## Key Insights
 - Cleaned data provides a reliable foundation for analysis and reporting  
